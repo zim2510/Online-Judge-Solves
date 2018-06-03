@@ -24,8 +24,8 @@ void backtrack(int pos, int rem)
 
 int main()
 {
-	freopen("in.txt", "r", stdin);
-	freopen("out.txt", "w", stdout);
+	//freopen("in.txt", "r", stdin);
+	//freopen("out.txt", "w", stdout);
 	int mtime;
 	while(scanf("%d", &mtime)==1){
 		scanf("%d", &n);
