@@ -61,8 +61,8 @@ void dfs(int x, vector<int> &clr, vector<vector<int> > &graph)
 
 int main(int argc, char const *argv[])
 {
-	//Read();
-	//Write();
+	Read();
+	Write();
 	int tc;
 	scanf("%d", &tc);
 	TC(i, 1, tc){

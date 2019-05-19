@@ -11,8 +11,8 @@ int check(int x);
 
 int main()
 {
-    freopen("in.txt", "r", stdin);
-    freopen("out.txt", "w", stdout);
+    //freopen("in.txt", "r", stdin);
+    //freopen("out.txt", "w", stdout);
     int tc;
     scanf("%d", &tc);
 

@@ -12,6 +12,7 @@ int main()
         scanf("%d %d %d", &mx, &t, &ct);
 
         int loaded = 0, total = -1, ntrip = 0;
+        
         for(int i = 0; i<ct; i++){
             int time;
             scanf("%d", &time);
